@@ -1,14 +1,10 @@
 bash-config
 ===========
 
-Adam's addition aliases, prompt setup and misc helpful things for bash
-
-*NOTE:* This project is deprecated in favour of my Bash & ZSH configuration, [AdShell](https://github.com/AdamWhittingham/adshell)
-
 Installation
 ------------
 ```
-git clone https://github.com/AdamWhittingham/bash-config .bash-config 
+git clone https://github.com/JGShaw/bash-config .bash-config 
 
 cat >>~/.bashrc <<EOS
   if [[ -f ~/.bash-config/bash_adam ]]; then
